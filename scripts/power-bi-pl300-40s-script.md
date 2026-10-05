@@ -1,19 +1,23 @@
 # PL-300 reel (40 seconds)
 
-Power BI ke chaar certificates the mere paas. Phir bhi interviewer ne paanchwa maanga — Microsoft ka PL-300. Aur mujhe uska naam tak nahi pata tha.
+Power BI ke chaar certificates the mere paas… aur Power BI ke baap ka naam tak nahi pata tha.
 
-Unhone kaha — "Udemy, Coursera ka certificate attendance hai. PL-300 exam hai."
+Interviewer ne poocha — "PL-300 hai?"
+Maine kaha — "Sir, ye kis company ka course hai?"
+"Microsoft ka. Jisne Power BI banaya hai."
+
+Phir unhone kaha — "Udemy, Coursera ka certificate attendance hai. PL-300 exam hai."
 
 Ghar aake search kiya.
 
-Socha tha course mehenga hoga — Microsoft Learn pe free mein hai. Kharcha sirf exam ka.
+Socha tha course mehenga hoga — Microsoft Learn pe free hai. Kharcha sirf exam ka.
 
-Socha tha videos dekh loon, ho jaayega — lekin nahi, iska exam hai. Exam center pe bhi hota hai, ghar se bhi — bas webcam aur mic chalu.
+Socha tha videos dekh ke ho jaayega — par exam 2x pe nahi chalta.
 
-Socha tha main ready hoon — free practice test diya… aur result aaya: fail.
+Center pe do ya ghar se — bas webcam on, mic on… aur mummy room ke bahar.
 
-Jo chaar certificates ne kabhi nahi bataya, ek free test ne bata diya.
+Socha tha main ready hoon — free practice test diya. Udemy ne "Congratulations" bola tha… Microsoft ne seedha "Try again."
 
-Resume pe "Power BI" tabhi likho, jab ye test clear ho. Kyunki attendance se kabhi koi pass nahi hua.
+Toh resume pe Power BI likhne se pehle, Microsoft ka "Try again" sun lo… interview ke "We'll get back to you" se sasta padega.
 
-PL-300 ka free roadmap chahiye? Comment karo "PL-300".
+Free roadmap chahiye? Comment karo "PL-300".
