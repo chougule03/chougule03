@@ -1,14 +1,14 @@
 # PL-300 reel (40 seconds)
 
-Power BI ke chaar certificates the mere paas. Interviewer ne paanchwa maanga — Microsoft ka PL-300. Aur mujhe uska naam tak nahi pata tha.
+Power BI ke chaar certificates the mere paas. Phir bhi interviewer ne paanchwa maanga — Microsoft ka PL-300. Aur mujhe uska naam tak nahi pata tha.
 
-Unhone kaha — "Udemy, Coursera ka certificate attendance hai. PL-300 exam hai. Aur companies exam wale ko hire karti hain."
+Unhone kaha — "Udemy, Coursera ka certificate attendance hai. PL-300 exam hai."
 
 Ghar aake search kiya.
 
-Socha tha padhai mehengi hogi — Microsoft Learn pe free nikli. Kharcha sirf exam ka.
+Socha tha course mehenga hoga — Microsoft Learn pe free mein hai. Kharcha sirf exam ka.
 
-Socha tha center jaana padega — exam ghar se bhi hota hai, bas webcam aur mic chalu.
+Socha tha videos dekh loon, ho jaayega — lekin nahi, iska exam hai. Exam center pe bhi hota hai, ghar se bhi — bas webcam aur mic chalu.
 
 Socha tha main ready hoon — free practice test diya… aur result aaya: fail.
 
